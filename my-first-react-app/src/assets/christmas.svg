@@ -1,0 +1,7 @@
+<svg width="100" height="100" viewBox="-100 -100 200 200">
+
+  <circle fill="red" cx="0" cy="0" r="50" />
+  <rect width="25" height="15" x="-12.5" y="-60" fill="#e6b225" />
+  <circle fill="none" cx="0" cy="-64" r="5" stroke="#e6b225" stroke-width="2" />
+
+</svg>
